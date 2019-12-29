@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "302564016620",
+    "firebase_url": "https://kitchenapp-75c69.firebaseio.com",
+    "project_id": "kitchenapp-75c69",
+    "storage_bucket": "kitchenapp-75c69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302564016620:android:0a3d61c05348ea652a00c9",
+        "android_client_info": {
+          "package_name": "com.example.kitchen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302564016620-j9nvojl4ac0in5e2fi0qpgua9a6so4jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDReLG-tYnHo_cjjyIswqV6kFZD1czu_LI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302564016620-j9nvojl4ac0in5e2fi0qpgua9a6so4jb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

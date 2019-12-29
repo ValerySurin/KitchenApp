@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#C4FF9800</color>-->
+    <color name="colorPrimary">#B9FFFFFF</color>
+    <!--<color name="colorPrimary">#008577</color>-->
+    <!--<color name="colorPrimaryDark">#C4DB7900</color>-->
+    <color name="colorPrimaryDark">#ADC0BFBF</color>
+    <color name="colorAccent">#C8FF9800</color>
+    <color name="textColor">#B73D3D3D</color>
+    <color name="meat">#8A9C0404</color>
+    <color name="fish">#81049C97</color>
+    <color name="fruits">#9AFFEB3B</color>
+    <color name="vegetable">#9C1AB920</color>
+    <color name="spice">#B35221</color>
+    <color name="sause">#95F0EDCD</color>
+    <color name="ChipText">#FFFFFF</color>
+</resources>
